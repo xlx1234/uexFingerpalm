@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uexplugins>
+    <plugin
+        uexName="uexFingerpalm" version="4.0.0" build="0" >
+        <info>0:4.0指掌易获取权限插件</info>
+    </plugin>
+</uexplugins>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uexplugins>
+      <plugin
+        className="zzy.EUExFingerpalm" uexName="uexFingerpalm" >
+        <method name="fingerpalm" />
+    </plugin>
+</uexplugins>
